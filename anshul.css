@@ -1,0 +1,75 @@
+                body{
+                    
+                    background-image: url(project/flower.jpeg);
+                    background-size: cover;
+                    image-orientation: justify;
+                    
+                }
+                .intro{ 
+                    width: auto ;
+                    font-size: 200%;
+                    color: darkviolet;
+                   ;
+                   
+                }
+                .final{
+                 color:crimson;
+                    border-bottom-color:crimson;
+                    font-size: 150%;
+                    width: auto
+                    
+                }
+                #firstsec{
+                    font-family: 'Shadows Into Light', cursive;
+                    letter-spacing: 3px;
+                    position:relative;
+                    width:30%;
+                    margin-left:130px;
+                    margin-bottom: 50px;
+                    padding: 18px;
+                    float: left;
+                    border: 5px;
+                    border-color: #47d147;
+                    border-style: solid;
+                  
+                     
+                    
+                }
+                
+                #Secondsec{
+                    font-size: 24px;
+                    text-decoration-color:red;
+                    font-family: 'Bree Serif', serif;
+                    margin-right: 130px;
+                    margin-top: 28px;
+                    
+                    letter-spacing: 2px;
+                    padding: 30px;
+                    width: 28%;
+                    height: 30%;
+                    border: 5px;
+                    border-color: yellow;
+                    position:relative;
+                    float: right;
+                    border-style: solid;
+                   
+                  
+                }
+                #handles{
+                    box-sizing:border-box;
+                    background-color:transparent;
+                    width:29em;
+                    padding: 30px; 
+                    margin-left:130px;
+                    position:relative;
+                    justify-content: center;
+                    display: inline-block;
+                    border:5px;
+                    border-color:#ff0055 ;
+                    border-style: solid;
+                    margin-top: 130px;
+                    float: right;
+                    margin-right: 130px;
+                    }
+              
+              
