@@ -1,6 +1,6 @@
                 body{
                     
-                    background-image: url(flower.jpeg);
+                    background-image: linear-gradient(to bottom right, red , yellow);
                     background-size: cover;
                     image-orientation: justify;
                     
