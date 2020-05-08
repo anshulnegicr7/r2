@@ -1,6 +1,6 @@
                 body{
                     
-                    background-image: url(flower.jpeg);
+                    background-image: url("flower.jpeg");
                     background-size: cover;
                     image-orientation: justify;
                     
